@@ -9,3 +9,12 @@
    1. By car we should drive from marryville to kansa city about 2hours.
    2. from there started drive for next 9hours to denver.
    3. stayed overnight and started to coloradfo for about 2hours to reach destination.
+2. Favouriate places to visit in Colrado
+   1. Garden of Gods
+   2. Rocky Mountains
+   3. Pikes peak
+
+* Badminton
+* Balls
+   * vollyball
+   * throwball
