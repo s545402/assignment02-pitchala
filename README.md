@@ -20,3 +20,14 @@
    * throwball
 
 [AboutMe](https://github.com/s545402/assignment02-pitchala/blob/main/AboutMe.md)
+
+---
+# Recommend Food/Drinks 
+The below table provides the list of Recommend food/drinks to try.
+
+| **Food/Drinks**       |**Location** | **Price($)**|
+| :-------------:| :------------: | :------: |
+| oreo milkshake | guntur | 5|
+|hyderabad briyani | hyderabad | 11|
+|momos | hyderabad | 7 |
+|noodles | guntur | 5 |
