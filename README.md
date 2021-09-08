@@ -33,6 +33,7 @@ The below table provides the list of Recommend food/drinks to try.
 |noodles | guntur | 5 |
 ----
 # Quotes :
->Love all, trust a few, do wrong to none. - *Shakespear*
->“Time is money.” – *Benjamin Franklin*
- 
+> Love all, trust a few, do wrong to none. - *Shakespear*
+
+> “Time is money” – *Benjamin Franklin* 
+
