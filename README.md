@@ -36,4 +36,11 @@ The below table provides the list of Recommend food/drinks to try.
 > Love all, trust a few, do wrong to none. - *Shakespear*
 
 > “Time is money” – *Benjamin Franklin* 
+----
+# Algorithm Choice
+
+>A ternary search algorithm is a technique in computer science for finding the minimum or maximum of a unimodal function. A ternary search is an example of a divide and conquer algorithm (see search algorithm).
+
+[ternary search]https://en.wikipedia.org/wiki/Ternary_search
+
 
