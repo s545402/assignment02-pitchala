@@ -41,7 +41,7 @@ The below table provides the list of Recommend food/drinks to try.
 
 >A ternary search algorithm is a technique in computer science for finding the minimum or maximum of a unimodal function. A ternary search is an example of a divide and conquer algorithm (see search algorithm).
 
-[ternary search]https://en.wikipedia.org/wiki/Ternary_search
+[ternary search] <https://en.wikipedia.org/wiki/Ternary_search>
 
 ```
 def ternary_search(f, left, right, absolute_precision) -> float:
@@ -59,5 +59,6 @@ def ternary_search(f, left, right, absolute_precision) -> float:
     else:
         return ternary_search(f, left, right_third, absolute_precision)
 ```
+<https://en.wikipedia.org/wiki/Ternary_search>
 
 
