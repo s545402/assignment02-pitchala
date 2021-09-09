@@ -43,4 +43,21 @@ The below table provides the list of Recommend food/drinks to try.
 
 [ternary search]https://en.wikipedia.org/wiki/Ternary_search
 
+```
+def ternary_search(f, left, right, absolute_precision) -> float:
+    """Left and right are the current bounds;
+    the maximum is between them.
+    """
+    if abs(right - left) < absolute_precision:
+        return (left + right) / 2
+
+    left_third = (2*left + right) / 3
+    right_third = (left + 2*right) / 3
+
+    if f(left_third) < f(right_third):
+        return ternary_search(f, left_third, right, absolute_precision)
+    else:
+        return ternary_search(f, left, right_third, absolute_precision)
+```
+
 
